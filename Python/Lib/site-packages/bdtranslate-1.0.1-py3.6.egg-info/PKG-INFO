@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: bdtranslate
+Version: 1.0.1
+Summary: Google translate, baidu translate service wrapper
+Home-page: http://ch3n.co
+Author: RUst Chen
+Author-email: rust.ch3n@gmail.com
+License: UNKNOWN
+Download-URL: https://pypi.python.org/pypi?%3Aaction=pkg_edit&name=bdtranslate
+Description: UNKNOWN
+Keywords: baidu,python,translator,simple,google,language
+Platform: UNKNOWN
